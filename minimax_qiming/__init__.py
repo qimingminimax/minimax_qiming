@@ -1,2 +1,3 @@
 # -*- coding:utf-8 -*-
-from . import add_num
+from minimax_qiming.get_ua import get_mobile_ua
+from minimax_qiming.get_ua import get_pc_ua

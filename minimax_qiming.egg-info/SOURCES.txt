@@ -1,0 +1,8 @@
+setup.py
+minimax_qiming/__init__.py
+minimax_qiming/get_ua.py
+minimax_qiming.egg-info/PKG-INFO
+minimax_qiming.egg-info/SOURCES.txt
+minimax_qiming.egg-info/dependency_links.txt
+minimax_qiming.egg-info/top_level.txt
+minimax_qiming/data/export_file.csv
