@@ -1,0 +1,7 @@
+setup.py
+minimax_qiming/__init__.py
+minimax_qiming/add_num.py
+qiming.egg-info/PKG-INFO
+qiming.egg-info/SOURCES.txt
+qiming.egg-info/dependency_links.txt
+qiming.egg-info/top_level.txt
