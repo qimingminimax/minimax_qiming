@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite3
+node_modules
+.github
+build
+dist
+minimax_qiming.egg-info
